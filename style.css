@@ -197,6 +197,7 @@ li:hover {
   font-family: 'Montserrat', sans-serif;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+  margin-bottom: 70px ;
 }
 
 h1 {
@@ -216,7 +217,7 @@ h2{
 color:mediumpurple;
 }
 
-.footer{
-padding:20px;
+.footer-class{
+padding:40px;
 margin:20px;
 }
